@@ -1,17 +1,16 @@
-# Fresh project
+Fresh project
+=====================
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+Fresh is a  simple, approachable, productive web framework for Deno.
 
-### Usage
+# Tech Stack
 
-Make sure to install Deno:
-https://docs.deno.com/runtime/getting_started/installation
+- Deno 2.5
+- Fresh 2.1
+- Tailwind CSS 4
+- Daisyui 5
 
-Then start the project in development mode:
 
-```
-deno task dev
-```
+# References
 
-This will watch the project directory and restart as necessary.
+* Fresh: https://fresh.deno.dev/
