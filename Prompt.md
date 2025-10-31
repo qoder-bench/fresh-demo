@@ -1,10 +1,12 @@
-# 新需求
+# New Requirement
 
-调整`routes/index.tsx`页面布局，要求如下：
+Adjust the `routes/index.tsx` page layout with the following requirements:
 
-- 顶部导航栏包含站点标题和Logo，同时增加导航链接：首页、文档、博客、联系我们
-- 首屏以轮播的方式展现三个不同类型的内容，每一个内容包括：标题、简短描述和“了解更多”按钮，点击按钮跳转到对应页面
-- 中间部分用于案例展现，采用网格布局，每个案例包含图片、标题和简短描述，有6个案例
-- 底部增加页脚，包含版权信息和社交媒体链接（如Twitter、GitHub）
-- 图片采用Placehold进行占位
-- 请使用Daisyui相关的组件和样式来实现上述布局要求
+- Top navigation bar contains site title and Logo, and add navigation links: Home, Documentation, Blog, Contact Us
+- First screen displays three different types of content in a carousel manner, each content includes: title, short description, and "Learn More" button. Click the button to jump to the corresponding page
+- Middle section for case display, using grid layout. Each case contains image, title, and short description, with 6 cases
+- Add footer at the bottom, containing copyright information and social media links (such as Twitter, GitHub)
+- Use Placehold for placeholder images
+- Please use Daisyui related components and styles to implement the above layout requirements
+
+
